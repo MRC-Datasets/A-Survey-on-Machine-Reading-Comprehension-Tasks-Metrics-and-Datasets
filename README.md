@@ -9,5 +9,4 @@ classification method of MRC tasks with 4 different attributes (2) we summarized
 some open issues in MRC research and highlight some future research directions. In addition, to help the community, we have collected, organized, and published our data on a companion 12
 website(https://mrc-datasets.github.io/) where MRC researchers could directly access each MRC dataset, papers, baseline projects and browse the leaderboard. 
 
-### Keywords: machine reading comprehension; survey; dataset
 
